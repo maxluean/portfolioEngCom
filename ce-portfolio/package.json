@@ -1,0 +1,28 @@
+{
+  "name": "ce-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website for applying to the Computer Engineering program, featuring a high-tech design and animations.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "computer engineering",
+    "web development",
+    "tailwindcss",
+    "animations"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.14"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.6",
+    "autoprefixer": "^10.4.0"
+  }
+}
